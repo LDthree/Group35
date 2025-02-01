@@ -1,0 +1,7 @@
+Background
+rubber_duck
+stop_sign
+shoe
+one_way
+yield_sign
+no_entry
